@@ -120,6 +120,8 @@ pytest -v
    ```
 
 ---
+Please cite this paper:  Hamdani, S. W. A., Ali, K., & Muhammad, Z. (2026). Blockchain-Enhanced Network Scanning and Monitoring (BENSAM) Framework. Blockchains, 4(1), 1. https://doi.org/10.3390/blockchains4010001
+Research Paper: https://www.mdpi.com/2813-5288/4/1/1
 
 ## 📖 Future Directions
 
